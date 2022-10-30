@@ -33,7 +33,5 @@
     "eris sharder",
     "discord sharder"
   ],
-  "peerDependencies": {
-    "eris": "~0.16.0"
-  }
+  
 }
